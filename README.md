@@ -7,4 +7,4 @@ The 'MAPT1D_20210113.m' Matlab code performs quantitative analysis of pancreatic
 
 DICOM files are loaded using a GUI and then processed to yield measurements of pancreas volume, surface area to volume ratio, longitudinal relaxation time (T1), apparent diffusion coefficient (ADC), magnetization transfer ratio (MTR), fat fraction, and effective transverse relaxation rate (T2*). 
 
-Code was written and testing in MATLAB_R2019A. 
+Code was written and tested using MATLAB_R2019A. 
